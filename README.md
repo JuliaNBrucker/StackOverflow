@@ -8,6 +8,7 @@ A brief and descriptive summary of what the project does.
 ## Table of Contents
 
 - [About the Project](#about-the-project)
+- [Data](#about-the-data)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,10 +26,10 @@ Provide a brief overview of the purpose and goals of the project. Highlight key 
 - Feature 2
 - Feature 3
 
-### Use Cases
 
-- Use Case 1
-- Use Case 2
+## Data
+
+Every year StackOverflow publishes the data of a developer survey. This data is publicly available and can be downloaded https://survey.stackoverflow.co/. In this project, the data set from 2024 was considered.
 
 ## Technologies
 
